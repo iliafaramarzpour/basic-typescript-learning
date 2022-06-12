@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "strict": true, // Strictness for data types and rules in the project
     "target": "ES2018", // ES version list : https://www.w3schools.com/js/js_versions.asp
     "module": "commonjs",
     // The two main module systems are :
