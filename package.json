@@ -1,0 +1,23 @@
+{
+  "name": "basic-typescript-learning",
+  "version": "1.0.0",
+  "description": "This source is for basic topics and a reminder source for learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliafaramarzpour/basic-typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliafaramarzpour/basic-typescript-learning/issues"
+  },
+  "homepage": "https://github.com/iliafaramarzpour/basic-typescript-learning#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}

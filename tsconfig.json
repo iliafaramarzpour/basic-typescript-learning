@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2018", // ES version list : https://www.w3schools.com/js/js_versions.asp
+    "module": "commonjs",
+    // The two main module systems are :
+    // ES6 module system : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+    // CommonJS : https://requirejs.org/docs/commonjs.html
+    "rootDir": "./src", // Original root of project files
+    "outDir": "./dist" // Project codes that require the final output are included in this file
+  },
+  "include": ["src/**/*.ts"], // Files to be considered for compilation
+  "exclude": ["node_modules"] // Files that should not be considered for compilation
+}
